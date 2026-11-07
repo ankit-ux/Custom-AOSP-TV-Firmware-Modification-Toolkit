@@ -1,5 +1,5 @@
 # Custom-AOSP-TV-Firmware-Modification-Toolkit
-A multi-platform Smart TV firmware customization toolkit for modifying AOSP, Android TV and embedded TV firmware. Supports Amlogic, MediaTek, MStar, Rockchip and Hisense-based platforms, with tools for boot logos, animations, launchers, remote configurations, system information, preinstalled applications, sound, colors and firmware customization.
+A multi-platform Smart TV firmware customization toolkit for modifying AOSP, Android TV and embedded TV firmware. Supports Amlogic, MediaTek, MStar, Rockchip and Hisense-based platforms, with tools for boot logos, animations, launchers, remote configurations, system information, preinstalled applications, sound, colors and firmware customization etc.
 
 
 Key features to highlight in README:
@@ -15,6 +15,6 @@ Key features to highlight in README:
 - Preinstalled Application Management (Add / Remove)
 - Open Cell Configuration and Customization
 - Firmware Unpacking, Editing and Repacking
-- System Resource and Configuration Modification
+- System Resource and Configuration Modification etc.
 
 aosp android-tv firmware firmware-modification amlogic mediatek mstar rockchip hisense embedded-linux android-development boot-animation tv-development firmware-tools
